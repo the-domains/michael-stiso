@@ -4,8 +4,15 @@
         <description><![CDATA[Michael Stiso]]></description>
         <link>https://thegrid.ai/michael-stiso/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 19:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 19:41:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/michael-stiso/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Current position</p>]]></description>
+            <link>http://mikestiso.com/</link>
+            <guid isPermaLink="false">55aab4fe-66c8-4210-8150-63a0b9a53f01</guid>
+            <pubDate>Tue, 24 Nov 2015 19:38:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
