@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Current position Research Scientist, SINTEF ICT  Education doctorate in cognitive psychology  Skills usability testing, user research, user experience design, h'
-datePublished: '2015-11-24T19:38:43.882Z'
-dateModified: '2015-11-24T19:38:30.709Z'
+datePublished: '2015-11-24T19:41:14.088Z'
+dateModified: '2015-11-24T19:41:07.526Z'
 author: []
-title: ''
+title: Summary
 sourcePath: _posts/2015-11-24-current-position-research-scientist-sintef-ict-education-d.md
 published: true
 authors: []
