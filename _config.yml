@@ -1,0 +1,28 @@
+name: Michael Stiso
+favicon: null
+layout_spectrum: 0.05012309551239014
+typography_spectrum: 0.3849497737828642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.09564942959696054
+  lightness: 0.7752349162474275
+  saturation: 0.9922280088067055
+  rhythmicContrast: 0.7780885335523635
+purpose: []
