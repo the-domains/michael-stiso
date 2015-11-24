@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Stiso]]></title>
+        <description><![CDATA[Michael Stiso]]></description>
+        <link>https://thegrid.ai/michael-stiso/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 Nov 2015 19:23:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-stiso/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/michael-stiso/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">8e13887b-6f0f-4af5-947d-bc4cc1c19a1e</guid>
+            <pubDate>Tue, 24 Nov 2015 19:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm a researcher and practitioner in the general field of user-centered design — the backbone of most any successful design effort.  My educational background is in human cognition. For the last decade or so, I have used that training to research and design products in a variety of domains: telecommunications, military systems, training systems, video games, enterprise applications, emergency management systems, and social media.  That diversity lets me adapt quickly to new domains and contribute at any phase of the design process: user research, requirements generation, interaction/UI design, usability testing, and so on. It has also made me familiar with the challenges of fitting UCD into industry schedules that have little time or appreciation for such activities.  If you would like to know more, check out my work history and my portfolio. If you're short on time, you will find a quick summary here.</p>]]></description>
+            <link>https://thegrid.ai/michael-stiso/im-a-researcher-and-practitioner-in-the-general-field-of-us/index.html</link>
+            <guid isPermaLink="false">0bb0d1e9-dbf3-4500-8731-c6db9c400128</guid>
+            <pubDate>Tue, 24 Nov 2015 19:21:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
