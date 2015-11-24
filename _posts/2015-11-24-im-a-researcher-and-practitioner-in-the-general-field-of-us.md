@@ -1,18 +1,24 @@
 ---
 description: "I'm a researcher and practitioner in the general field of user-centered design — the backbone of most any successful design effort.  My educational background i"
+isBasedOnUrl: 'http://mikestiso.com/'
 author: []
-datePublished: '2015-11-24T19:21:54.918Z'
+datePublished: '2015-11-24T20:05:57.392Z'
 publisher:
-  domain: mikestiso.com
   name: mikestiso.com
-dateModified: '2015-11-24T19:20:54.848Z'
+  domain: mikestiso.com
+  url: null
+  favicon: null
+dateModified: '2015-11-24T20:05:07.755Z'
 title: ''
 sourcePath: _posts/2015-11-24-im-a-researcher-and-practitioner-in-the-general-field-of-us.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: im-a-researcher-and-practitioner-in-the-general-field-of-us/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
